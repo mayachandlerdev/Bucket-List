@@ -1,0 +1,18 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: yellow
+}
+
+img{
+  height: 200px;
+}
+
+button{
+  font-size: 15px;
+  border-radius: 25px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
